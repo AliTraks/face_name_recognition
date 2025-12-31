@@ -1,0 +1,26 @@
+2025-12-31 22:13:39,549 - __main__ - INFO - ============================================================
+2025-12-31 22:13:39,550 - __main__ - INFO - Professional Face Recognition System Starting
+2025-12-31 22:13:39,550 - __main__ - INFO - ============================================================
+2025-12-31 22:13:39,566 - __main__ - INFO - Loaded 0 persons from database
+2025-12-31 22:13:39,662 - __main__ - INFO - Loaded 0 persons from database
+2025-12-31 22:14:12,065 - __main__ - INFO - Real-time pipeline started (optimized mode)
+2025-12-31 22:14:24,547 - __main__ - INFO - ============================================================
+2025-12-31 22:14:24,547 - __main__ - INFO - Professional Face Recognition System Starting
+2025-12-31 22:14:24,548 - __main__ - INFO - ============================================================
+2025-12-31 22:14:24,549 - __main__ - INFO - Loaded 0 persons from database
+2025-12-31 22:14:24,638 - __main__ - INFO - Loaded 0 persons from database
+2025-12-31 22:14:53,782 - __main__ - INFO - Loaded 1 persons from database
+2025-12-31 22:14:53,782 - __main__ - INFO - Successfully enrolled 'Ali' with 5 embeddings
+2025-12-31 22:14:54,816 - __main__ - INFO - Loaded 1 persons from database
+2025-12-31 22:15:04,291 - __main__ - INFO - Real-time pipeline started (optimized mode)
+2025-12-31 22:15:17,649 - __main__ - INFO - Real-time pipeline stopped
+2025-12-31 22:16:20,264 - __main__ - INFO - ============================================================
+2025-12-31 22:16:20,264 - __main__ - INFO - Professional Face Recognition System Starting
+2025-12-31 22:16:20,264 - __main__ - INFO - ============================================================
+2025-12-31 22:16:20,270 - __main__ - INFO - Loaded 1 persons from database
+2025-12-31 22:16:20,363 - __main__ - INFO - Loaded 1 persons from database
+2025-12-31 22:16:27,770 - __main__ - INFO - Real-time pipeline started
+2025-12-31 22:16:46,672 - __main__ - INFO - Real-time pipeline stopped
+2025-12-31 22:17:10,413 - __main__ - WARNING - Image 1 validation failed: Image too blurry (score: 43.3). Minimum: 100
+2025-12-31 22:17:10,803 - __main__ - WARNING - Image 2 validation failed: Image too blurry (score: 43.3). Minimum: 100
+2025-12-31 22:17:11,201 - __main__ - WARNING - Image 3 validation failed: Image too blurry (score: 43.3). Minimum: 100

@@ -1,0 +1,21 @@
+database:
+  path: data/face_database.db
+enrollment:
+  max_blur_threshold: 100
+  max_brightness: 220
+  max_embeddings: 5
+  min_brightness: 40
+  min_embeddings: 3
+  min_face_size: 80
+logging:
+  file: data/face_recognition.log
+  level: INFO
+realtime:
+  detection_interval: 5
+  recognition_interval: 15
+  scale_factor: 0.25
+  target_fps: 30
+thresholds:
+  loose: 0.6
+  max_unknown: 0.7
+  strict: 0.45
